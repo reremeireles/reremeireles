@@ -7,7 +7,7 @@
 - 🌱 I'm current learning Java and Angular
 - 💖 I'm enthusiast of technologies focused on Frontend Web Development
 - ✉️  You can contact me at renatameirelesbatista@gmail.com
-- 😊 Curious fact: I'm graduated in Architecture and Urban Planning and I love design 
+- 😊 Curious fact: I have a degree in Architecture and Urban Planning and I love design 
 
 #### Languages and tools:
 
